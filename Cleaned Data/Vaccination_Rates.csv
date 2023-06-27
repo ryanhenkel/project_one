@@ -1,0 +1,87 @@
+CITY_TYPE,CITY,COMMUNITY,LABEL,City_Community,Cases,Case_Rate,Deaths,Death_Rate,Percent_of_People_with_1__Dose,Percent_of_People_Fully_Vaccinated
+City,Agoura Hills, ,City of Agoura Hills,City of Agoura Hills,4220,20208.0,22,105.0,0.85,0.8
+City,Alhambra, ,City of Alhambra,City of Alhambra,17044,19653.0,255,294.0,0.87,0.81
+City,Arcadia, ,City of Arcadia,City of Arcadia,8145,14103.0,165,286.0,0.91,0.84
+City,Artesia, ,City of Artesia,City of Artesia,4186,24924.0,88,524.0,0.87,0.8
+City,Avalon, ,City of Avalon,City of Avalon,63,1628.0,0,0.0,0.27,0.23
+City,Azusa, ,City of Azusa,City of Azusa,13736,27450.0,158,316.0,0.71,0.65
+City,Baldwin Park, ,City of Baldwin Park,City of Baldwin Park,22912,29845.0,389,507.0,0.82,0.76
+City,Bell, ,City of Bell,City of Bell,13871,38178.0,142,391.0,0.76,0.68
+City,Bell Gardens, ,City of Bell Gardens,City of Bell Gardens,14167,32892.0,139,323.0,0.75,0.68
+City,Bellflower, ,City of Bellflower,City of Bellflower,23344,30030.0,261,336.0,0.76,0.7
+City,Beverly Hills, ,City of Beverly Hills,City of Beverly Hills,8445,24464.0,44,127.0,0.92,0.81
+City,Burbank, ,City of Burbank,City of Burbank,22478,20972.0,323,301.0,0.85,0.78
+City,Calabasas, ,City of Calabasas,City of Calabasas,4031,16573.0,38,156.0,0.87,0.81
+City,Carson, ,City of Carson,City of Carson,25612,27292.0,322,343.0,0.86,0.8
+City,Cerritos, ,City of Cerritos,City of Cerritos,8445,16867.0,85,170.0,0.92,0.86
+City,Claremont, ,City of Claremont,City of Claremont,7066,19367.0,81,222.0,0.79,0.71
+City,Commerce, ,City of Commerce,City of Commerce,4516,34555.0,47,360.0,0.0,0.84
+City,Compton, ,City of Compton,City of Compton,33127,33159.0,324,324.0,0.74,0.65
+City,Covina, ,City of Covina,City of Covina,14697,29974.0,205,418.0,0.83,0.76
+City,Cudahy, ,City of Cudahy,City of Cudahy,10030,41196.0,79,324.0,0.78,0.69
+City,Culver City, ,City of Culver City,City of Culver City,7473,18746.0,134,336.0,0.0,0.89
+City,Downey, ,City of Downey,City of Downey,35996,31503.0,378,331.0,0.82,0.75
+City,Duarte, ,City of Duarte,City of Duarte,5188,23565.0,119,541.0,0.84,0.78
+City,El Monte, ,City of El Monte,City of El Monte,33087,28215.0,526,449.0,0.81,0.74
+City,El Segundo, ,City of El Segundo,City of El Segundo,2826,16835.0,14,83.0,0.0,0.88
+City,Gardena, ,City of Gardena,City of Gardena,16263,26526.0,266,434.0,0.83,0.76
+City,Glendale, ,City of Glendale,City of Glendale,44621,21609.0,870,421.0,0.73,0.66
+City,Glendora, ,City of Glendora,City of Glendora,11829,22419.0,245,464.0,0.79,0.73
+City,Hawaiian Gardens, ,City of Hawaiian Gardens,City of Hawaiian Gardens,4176,28455.0,30,204.0,0.75,0.68
+City,Hawthorne, ,City of Hawthorne,City of Hawthorne,22628,25486.0,277,312.0,0.78,0.7
+City,Hermosa Beach, ,City of Hermosa Beach,City of Hermosa Beach,3345,17006.0,12,61.0,0.9,0.82
+City,Hidden Hills, ,City of Hidden Hills,City of Hidden Hills,264,13968.0,2,106.0,0.8,0.72
+City,Huntington Park, ,City of Huntington Park,City of Huntington Park,22055,37077.0,217,365.0,0.77,0.68
+City,Industry, ,City of Industry,City of Industry,402,91991.0,6,1373.0,0.0,0.0
+City,Inglewood, ,City of Inglewood,City of Inglewood,29431,25912.0,387,341.0,0.76,0.68
+City,Irwindale, ,City of Irwindale,City of Irwindale,538,36875.0,8,548.0,0.0,0.95
+City,La Habra Heights, ,City of La Habra Heights,City of La Habra Heights,162,2970.0,2,37.0,0.74,0.69
+City,La Mirada, ,City of La Mirada,City of La Mirada,10470,21109.0,183,369.0,0.76,0.71
+City,La Puente, ,City of La Puente,City of La Puente,12696,31196.0,152,373.0,0.8,0.74
+City,La Verne, ,City of La Verne,City of La Verne,7093,21312.0,81,243.0,0.74,0.69
+City,Lakewood, ,City of Lakewood,City of Lakewood,19040,23693.0,169,210.0,0.81,0.75
+City,Lancaster, ,City of Lancaster,City of Lancaster,50946,31532.0,427,264.0,0.66,0.61
+City,Lawndale, ,City of Lawndale,City of Lawndale,8122,24163.0,71,211.0,0.8,0.73
+City,Lomita, ,City of Lomita,City of Lomita,4340,20937.0,58,280.0,0.78,0.72
+City,Long Beach, ,City of Long Beach,City of Long Beach,125823,,1264,,0.76,0.69
+City,Lynwood, ,City of Lynwood,City of Lynwood,24826,34458.0,292,405.0,0.76,0.67
+City,Malibu, ,City of Malibu,City of Malibu,2137,16488.0,13,100.0,0.69,0.62
+City,Manhattan Beach, ,City of Manhattan Beach,City of Manhattan Beach,5035,13986.0,27,75.0,0.93,0.85
+City,Maywood, ,City of Maywood,City of Maywood,10573,37695.0,104,371.0,0.76,0.68
+City,Montebello, ,City of Montebello,City of Montebello,19239,29886.0,283,440.0,0.81,0.74
+City,Monterey Park, ,City of Monterey Park,City of Monterey Park,11591,18616.0,234,376.0,0.0,0.88
+City,Norwalk, ,City of Norwalk,City of Norwalk,33243,30889.0,466,433.0,0.8,0.73
+City,Palmdale, ,City of Palmdale,City of Palmdale,53007,33344.0,445,280.0,0.76,0.69
+City,Palos Verdes Estates, ,City of Palos Verdes Estates,City of Palos Verdes Estates,1529,11307.0,12,89.0,0.89,0.83
+City,Paramount, ,City of Paramount,City of Paramount,18930,33790.0,210,375.0,0.76,0.68
+City,Pasadena, ,City of Pasadena,City of Pasadena,28473,,414,,0.86,0.79
+City,Pico Rivera, ,City of Pico Rivera,City of Pico Rivera,20982,32640.0,334,520.0,0.83,0.76
+City,Rancho Palos Verdes, ,City of Rancho Palos Verdes,City of Rancho Palos Verdes,4947,11573.0,82,192.0,0.89,0.82
+City,Redondo Beach, ,City of Redondo Beach,City of Redondo Beach,10137,14756.0,69,100.0,0.89,0.83
+City,Rolling Hills, ,City of Rolling Hills,City of Rolling Hills,190,9794.0,3,155.0,0.8,0.74
+City,Rolling Hills Estates, ,City of Rolling Hills Estates,City of Rolling Hills Estates,1007,12412.0,10,123.0,0.0,0.9
+City,Rosemead, ,City of Rosemead,City of Rosemead,10842,19588.0,186,336.0,0.89,0.82
+City,San Dimas, ,City of San Dimas,City of San Dimas,8095,23453.0,127,368.0,0.76,0.71
+City,San Fernando, ,City of San Fernando,City of San Fernando,10446,42443.0,80,325.0,0.83,0.76
+City,San Gabriel, ,City of San Gabriel,City of San Gabriel,7644,18665.0,243,593.0,0.93,0.85
+City,San Marino, ,City of San Marino,City of San Marino,1457,10974.0,13,98.0,0.93,0.86
+City,Santa Clarita, ,City of Santa Clarita,City of Santa Clarita,54213,24595.0,382,173.0,0.83,0.77
+City,Santa Fe Springs, ,City of Santa Fe Springs,City of Santa Fe Springs,6373,34704.0,55,299.0,0.82,0.76
+City,Santa Monica, ,City of Santa Monica,City of Santa Monica,17349,18767.0,240,260.0,0.92,0.84
+City,Sierra Madre, ,City of Sierra Madre,City of Sierra Madre,1541,14023.0,22,200.0,0.9,0.84
+City,Signal Hill, ,City of Signal Hill,City of Signal Hill,2853,24184.0,13,110.0,0.8,0.74
+City,South El Monte, ,City of South El Monte,City of South El Monte,6583,31520.0,88,421.0,0.81,0.74
+City,South Gate, ,City of South Gate,City of South Gate,38406,39128.0,314,320.0,0.81,0.74
+City,South Pasadena, ,City of South Pasadena,City of South Pasadena,4063,15595.0,61,234.0,0.95,0.88
+City,Temple City, ,City of Temple City,City of Temple City,6256,17161.0,150,411.0,0.92,0.85
+City,Torrance, ,City of Torrance,City of Torrance,23021,15423.0,302,202.0,0.88,0.82
+City,Vernon, ,City of Vernon,City of Vernon,308,147368.0,0,0.0,0.0,0.0
+City,Walnut, ,City of Walnut,City of Walnut,4909,16078.0,46,151.0,0.89,0.84
+City,West Covina, ,City of West Covina,City of West Covina,29332,27100.0,363,335.0,0.85,0.78
+City,West Hollywood, ,City of West Hollywood,City of West Hollywood,8107,21940.0,61,165.0,0.87,0.78
+City,Westlake Village, ,City of Westlake Village,City of Westlake Village,280,3349.0,2,24.0,0.84,0.78
+City,Whittier, ,City of Whittier,City of Whittier,23755,27170.0,336,384.0,0.8,0.73
+City,Bradbury, ,City of Bradbury,City of Bradbury,66,6174.0,0,0.0,0.72,0.66
+City,Monrovia, ,City of Monrovia,City of Monrovia,8296,21381.0,103,265.0,0.81,0.76
+City,Diamond Bar, ,City of Diamond Bar,City of Diamond Bar,9196,15989.0,107,186.0,0.88,0.82
+City,Pomona, ,City of Pomona,City of Pomona,52063,33388.0,584,375.0,0.75,0.68
