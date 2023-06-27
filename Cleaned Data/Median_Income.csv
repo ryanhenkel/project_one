@@ -1,0 +1,266 @@
+rank,NEIGHBORHOOD,MEDIAN INCOME,income level
+1,Bel-Air,207938,high
+2,Hidden Hills,203199,high
+3,Rolling Hills,184777,high
+4,Beverly Crest,169282,high
+5,Pacific Palisades,168008,high
+6,Palos Verdes Estates,167344,high
+7,San Marino,158855,high
+8,La Cañada Flintridge,148996,high
+9,Rolling Hills Estates,145628,high
+10,Malibu,138215,high
+11,La Habra Heights,137034,high
+12,Manhattan Beach,136481,high
+13,Unincorporated Santa Monica Mountains,132997,high
+14,Rancho Palos Verdes,128321,high
+15,Westlake Village,126550,high
+16,Calabasas,126178,high
+17,West San Dimas,125984,high
+18,Bradbury,123773,high
+19,Stevenson Ranch,122833,high
+20,Porter Ranch,121428,high
+21,Topanga,120319,high
+22,Ladera Heights,117925,high
+23,Agoura Hills,117608,high
+24,Leona Valley,117526,high
+25,Brentwood,112927,high
+26,Cheviot Hills,111813,high
+27,Hermosa Beach,109509,high
+28,Castaic,108693,high
+29,Hollywood Hills West,108199,high
+30,Walnut,106893,high
+31,Hasley Canyon,106489,high
+32,Agua Dulce,106078,high
+33,Beverlywood,105253,high
+34,Northwest Palmdale,103013,high
+35,West Hills,103008,high
+36,Cerritos,98212,high
+37,Beverly Hills,96312,high
+38,Century City,95135,high
+39,North Whittier,93841,high
+40,Unincorporated Santa Susana Mountains,93825,high
+41,Castaic Canyons,93248,high
+42,San Pasqual,92917,high
+43,Ridge Route,92822,high
+44,Marina del Rey,92763,high
+45,Diamond Bar,92414,high
+46,Redondo Beach,92263,high
+47,Playa del Rey,91339,high
+48,Woodland Hills,89946,high
+49,Claremont,89804,high
+50,Santa Clarita,88987,high
+51,Sierra Madre,88008,high
+52,West Los Angeles,86403,high
+53,Ramona,86325,high
+54,Tujunga Canyons,85625,high
+55,Hancock Park,85277,high
+56,San Dimas,84953,high
+57,Chatsworth,84456,high
+58,Acton,83983,high
+59,El Segundo,83925,high
+60,Granada Hills,83911,high
+61,La Mirada,83514,high
+62,La Verne,83352,high
+63,Shadow Hills,82796,high
+64,La Crescenta-Montrose,82693,high
+65,Altadena,82676,high
+66,Glendora,81336,high
+67,Vernon,81279,high
+68,View Park-Windsor Hills,81214,high
+69,Desert View Highlands,80867,high
+70,Hacienda Heights,80762,high
+71,Lakewood,78764,high
+72,Green Valley,78712,high
+73,Encino,78529,high
+74,Quartz Hill,77498,high
+75,Westchester,77473,high
+76,Torrance,76866,high
+77,South Pasadena,76229,high
+78,Elizabeth Lake,75951,high
+79,Arcadia,75808,high
+80,Mission Hills,75675,high
+81,Studio City,75657,medium
+82,Lake Hughes,74918,medium
+83,East Pasadena,73690,medium
+84,Tarzana,73195,medium
+85,Toluca Lake,73111,medium
+86,Angeles Crest,72841,medium
+87,Rowland Heights,72638,medium
+88,Rancho Dominguez,72097,medium
+89,West Covina,71898,medium
+90,Carthay,71398,medium
+91,Culver City,70774,medium
+92,Carson,70645,medium
+93,Southeast Antelope Valley,70134,medium
+94,Valinda,70037,medium
+95,East La Mirada,69930,medium
+96,Rancho Park,69724,medium
+97,Sherman Oaks,69651,medium
+98,Hollywood Hills,69277,medium
+99,Santa Monica,69013,medium
+100,Sunland,68720,medium
+101,Westwood,68716,medium
+102,Playa Vista,68597,medium
+103,Duarte,68539,medium
+104,Charter Oak,68092,medium
+105,Val Verde,68073,medium
+106,Lake View Terrace,67985,medium
+107,Northridge,67906,medium
+108,Venice,67647,medium
+109,Mayflower Village,67592,medium
+110,Eagle Rock,67253,medium
+111,Whittier,66891,medium
+112,West Carson,66805,medium
+113,Citrus,66638,medium
+114,Industry,66616,medium
+115,Del Aire,66442,medium
+116,Covina,66438,medium
+117,Signal Hill,66283,medium
+118,Vincent,66221,medium
+119,Temple City,65965,medium
+120,Fairfax,65938,medium
+121,Sylmar,65783,medium
+122,Arleta,65649,medium
+123,South San Jose Hills,65527,medium
+124,Lake Balboa,65336,medium
+125,South San Gabriel,64827,medium
+126,West Puente Valley,64809,medium
+127,South Whittier,64670,medium
+128,Avocado Heights,64544,medium
+129,Burbank,64416,medium
+130,East San Gabriel,64365,medium
+131,Pico-Robertson,63356,medium
+132,Palmdale,63317,medium
+133,Beverly Grove,63039,medium
+134,Pasadena,62825,medium
+135,Mar Vista,62611,medium
+136,Winnetka,62535,medium
+137,Norwalk,62412,medium
+138,Del Rey,62259,medium
+139,Downey,61839,medium
+140,Windsor Square,61767,medium
+141,West Whittier-Los Nietos,61504,medium
+141,Monrovia,61504,medium
+143,Lopez/Kagel Canyons,61398,medium
+144,Irwindale,60959,medium
+145,Littlerock,60781,medium
+146,Veterans Administration,60561,medium
+147,Artesia,60538,medium
+148,Santa Fe Springs,60445,medium
+149,Lomita,59059,medium
+150,Northwest Antelope Valley,58899,medium
+151,Mid-Wilshire,58483,medium
+152,Tujunga,58001,medium
+153,Gramercy Park,57983,medium
+154,Mount Washington,57725,medium
+155,Sawtelle,57710,medium
+156,San Pedro,57508,medium
+157,Alondra Park,57177,medium
+158,Glendale,57112,medium
+159,San Gabriel,56687,medium
+160,Pico Rivera,56683,medium
+161,Baldwin Park,56585,medium
+162,North El Monte,56577,medium
+163,Unincorporated Catalina Island,56295,medium
+164,Sun Village,56175,medium
+165,Lancaster,56069,medium
+166,La Puente,55902,medium
+167,Montecito Heights,55901,medium
+168,Valley Village,55470,medium
+169,Harbor City,55454,medium
+170,Monterey Park,55210,medium
+171,Reseda,54771,medium
+172,Silver Lake,54339,medium
+173,Pomona,54242,medium
+174,San Fernando,54068,medium
+175,Atwater Village,53872,medium
+176,Bellflower,53325,medium
+177,Azusa,53299,medium
+178,Alhambra,53224,medium
+179,Avalon,53200,medium
+180,Lawndale,53150,medium
+181,Gardena,52897,medium
+182,West Hollywood,52855,medium
+183,Montebello,52623,medium
+184,North Hills,52456,medium
+185,Northeast Antelope Valley,52234,medium
+186,Lake Los Angeles,52146,medium
+187,Canoga Park,51601,low
+188,Sun Valley,51290,low
+189,Long Beach,50985,low
+190,Los Feliz,50793,low
+191,Palms,50684,low
+192,Glassell Park,50098,low
+193,Paramount,49815,low
+194,Rosemead,49387,low
+195,Pacoima,49066,low
+196,Elysian Valley,49013,low
+197,Athens,48824,low
+198,Walnut Park,48750,low
+199,Lynwood,48518,low
+200,South Gate,48312,low
+201,West Compton,48093,low
+202,Harbor Gateway,47849,low
+203,Larchmont,47780,low
+204,South El Monte,46912,low
+205,Hawaiian Gardens,46853,low
+206,Inglewood,46574,low
+207,Commerce,46245,low
+208,Valley Glen,46175,low
+209,Manchester Square,46093,low
+210,El Sereno,45866,low
+211,Leimert Park,45865,low
+212,Highland Park,45478,low
+213,Panorama City,44468,low
+214,East Compton,44439,low
+215,El Monte,44415,low
+216,Mid-City,43711,low
+217,Hawthorne,43602,low
+218,Compton,43157,low
+219,North Hollywood,42791,low
+220,Cypress Park,42615,low
+221,Bell Gardens,41532,low
+222,Maywood,41203,low
+223,Van Nuys,41134,low
+224,Wilmington,40627,low
+225,Bell,40556,low
+226,Hyde Park,39460,low
+227,Huntington Park,39185,low
+228,Cudahy,39048,low
+229,East Los Angeles,38621,low
+230,Willowbrook,38224,low
+231,West Adams,38209,low
+232,Baldwin Hills/Crenshaw,37948,low
+233,Lennox,37937,low
+234,Chesterfield Square,37737,low
+235,Echo Park,37708,low
+236,Harvard Park,37013,low
+237,Florence-Firestone,34408,low
+238,Exposition Park,33999,low
+239,Hollywood,33694,low
+240,Boyle Heights,33235,low
+241,Jefferson Park,32654,low
+242,Westmont,31572,low
+243,Central-Alameda,31559,low
+244,Arlington Heights,31421,low
+245,Green Meadows,31347,low
+246,Vermont Vista,31272,low
+247,Vermont-Slauson,31236,low
+248,Harvard Heights,31173,low
+249,Historic South-Central,30882,low
+250,Lincoln Heights,30579,low
+251,Koreatown,30558,low
+252,East Hollywood,29927,low
+253,Vermont Square,29904,low
+254,Broadway-Manchester,29897,low
+255,Adams-Normandie,29606,low
+256,South Park,29518,low
+257,Florence,29447,low
+258,Elysian Park,28263,low
+259,Vermont Knolls,27730,low
+260,Westlake,26757,low
+261,Pico-Union,26424,low
+262,Watts,25161,low
+263,Chinatown,22754,low
+264,University Park,18533,low
+265,Downtown,15003,low
