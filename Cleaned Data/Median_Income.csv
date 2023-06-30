@@ -1,88 +1,174 @@
-rank,NEIGHBORHOOD,MEDIAN INCOME,income level
-2,Hidden Hills,203199,high
-3,Rolling Hills,184777,high
-6,Palos Verdes Estates,167344,high
-7,San Marino,158855,high
-8,La Canada Flintridge,148996,high
-9,Rolling Hills Estates,145628,high
-10,Malibu,138215,high
-11,La Habra Heights,137034,high
-12,Manhattan Beach,136481,high
-14,Rancho Palos Verdes,128321,high
-15,Westlake Village,126550,high
-16,Calabasas,126178,high
-18,Bradbury,123773,high
-23,Agoura Hills,117608,high
-27,Hermosa Beach,109509,high
-30,Walnut,106893,high
-36,Cerritos,98212,high
-37,Beverly Hills,96312,high
-45,Diamond Bar,92414,high
-46,Redondo Beach,92263,high
-49,Claremont,89804,high
-50,Santa Clarita,88987,high
-51,Sierra Madre,88008,high
-56,San Dimas,84953,high
-59,El Segundo,83925,high
-61,La Mirada,83514,high
-62,La Verne,83352,high
-66,Glendora,81336,high
-67,Vernon,81279,high
-71,Lakewood,78764,high
-76,Torrance,76866,high
-77,South Pasadena,76229,high
-79,Arcadia,75808,high
-89,West Covina,71898,medium
-91,Culver City,70774,medium
-92,Carson,70645,medium
-99,Santa Monica,69013,medium
-103,Duarte,68539,medium
-111,Whittier,66891,medium
-114,Industry,66616,medium
-116,Covina,66438,medium
-117,Signal Hill,66283,medium
-119,Temple City,65965,medium
-129,Burbank,64416,medium
-132,Palmdale,63317,medium
-134,Pasadena,62825,medium
-137,Norwalk,62412,medium
-139,Downey,61839,medium
-141,Monrovia,61504,medium
-144,Irwindale,60959,medium
-147,Artesia,60538,medium
-148,Santa Fe Springs,60445,medium
-149,Lomita,59059,medium
-158,Glendale,57112,medium
-159,San Gabriel,56687,medium
-160,Pico Rivera,56683,medium
-161,Baldwin Park,56585,medium
-165,Lancaster,56069,medium
-166,La Puente,55902,medium
-170,Monterey Park,55210,medium
-173,Pomona,54242,medium
-174,San Fernando,54068,medium
-176,Bellflower,53325,medium
-177,Azusa,53299,medium
-178,Alhambra,53224,medium
-179,Avalon,53200,medium
-180,Lawndale,53150,medium
-181,Gardena,52897,medium
-182,West Hollywood,52855,medium
-183,Montebello,52623,medium
-189,Long Beach,50985,low
-193,Paramount,49815,low
-194,Rosemead,49387,low
-199,Lynwood,48518,low
-200,South Gate,48312,low
-204,South El Monte,46912,low
-205,Hawaiian Gardens,46853,low
-206,Inglewood,46574,low
-207,Commerce,46245,low
-215,El Monte,44415,low
-217,Hawthorne,43602,low
-218,Compton,43157,low
-221,Bell Gardens,41532,low
-222,Maywood,41203,low
-225,Bell,40556,low
-227,Huntington Park,39185,low
-228,Cudahy,39048,low
+NEIGHBORHOOD,MEDIAN INCOME,POPULATION PER SQMI,income level
+Hidden Hills,203199,"1,100",high
+Rolling Hills,184777,893,high
+Beverly Crest,169282,"1,318",high
+Pacific Palisades,168008,"1,048",high
+Palos Verdes Estates,167344,"2,822",high
+San Marino,158855,"3,428",high
+La Canada Flintridge,148996,"2,369",high
+Rolling Hills Estates,145628,"2,185",high
+Malibu,138215,629,high
+La Habra Heights,137034,979,high
+Manhattan Beach,136481,"8,573",high
+Rancho Palos Verdes,128321,"3,084",high
+Westlake Village,126550,"1,534",high
+Calabasas,126178,"1,247",high
+Bradbury,123773,658,high
+Porter Ranch,121428,"4,462",high
+Agoura Hills,117608,"2,495",high
+Brentwood,112927,"2,059",high
+Cheviot Hills,111813,"4,520",high
+Hermosa Beach,109509,"12,481",high
+Walnut,106893,"3,329",high
+Beverlywood,105253,"7,654",high
+West Hills,103008,"4,551",high
+Cerritos,98212,"5,851",high
+Beverly Hills,96312,"5,933",high
+Century City,95135,"7,869",high
+Diamond Bar,92414,"3,754",high
+Redondo Beach,92263,"10,129",high
+Woodland Hills,89946,"4,040",high
+Claremont,89804,"2,124",high
+Santa Clarita,88987,"2,745",high
+Sierra Madre,88008,"3,563",high
+West Los Angeles,86403,"12,061",high
+Hancock Park,85277,"6,459",high
+San Dimas,84953,"2,244",high
+Chatsworth,84456,"2,301",high
+El Segundo,83925,"2,925",high
+Granada Hills,83911,"3,344",high
+La Mirada,83514,"5,966",high
+La Verne,83352,"3,863",high
+Shadow Hills,82796,"1,023",high
+Glendora,81336,"2,568",high
+Vernon,81279,18,high
+Lakewood,78764,"8,348",high
+Encino,78529,"4,411",high
+Westchester,77473,"3,839",high
+Torrance,76866,"6,701",high
+South Pasadena,76229,"7,114",high
+Arcadia,75808,"4,749",high
+Mission Hills,75675,"5,721",high
+Studio City,75657,"5,395",medium
+Tarzana,73195,"4,038",medium
+Toluca Lake,73111,"6,393",medium
+West Covina,71898,"6,509",medium
+Carthay,71398,"9,642",medium
+Culver City,70774,"7,475",medium
+Carson,70645,"4,676",medium
+Rancho Park,69724,"7,169",medium
+Sherman Oaks,69651,"6,687",medium
+Hollywood Hills,69277,"3,063",medium
+Santa Monica,69013,"9,817",medium
+Sunland,68720,"3,825",medium
+Westwood,68716,"13,036",medium
+Playa Vista,68597,"1,859",medium
+Duarte,68539,"3,212",medium
+Northridge,67906,"6,080",medium
+Venice,67647,"11,891",medium
+Eagle Rock,67253,"7,644",medium
+Whittier,66891,"5,688",medium
+Industry,66616,82,medium
+Covina,66438,"6,701",medium
+Signal Hill,66283,"4,171",medium
+Temple City,65965,"8,366",medium
+Sylmar,65783,"5,579",medium
+Arleta,65649,"10,034",medium
+Lake Balboa,65336,"7,754",medium
+Burbank,64416,"5,785",medium
+Palmdale,63317,874,medium
+Pasadena,62825,"5,366",medium
+Mar Vista,62611,"12,259",medium
+Winnetka,62535,"9,826",medium
+Norwalk,62412,"10,572",medium
+Del Rey,62259,"11,420",medium
+Downey,61839,"8,566",medium
+Monrovia,61504,"2,643",medium
+Irwindale,60959,154,medium
+Artesia,60538,"10,036",medium
+Santa Fe Springs,60445,"2,014",medium
+Lomita,59059,"10,424",medium
+Tujunga,58001,"2,649",medium
+San Pedro,57508,"6,640",medium
+Glendale,57112,"6,368",medium
+San Gabriel,56687,"9,433",medium
+Pico Rivera,56683,"7,187",medium
+Baldwin Park,56585,"11,176",medium
+Lancaster,56069,"1,180",medium
+La Puente,55902,"11,761",medium
+Valley Village,55470,"11,600",medium
+Harbor City,55454,"9,127",medium
+Monterey Park,55210,"7,823",medium
+Reseda,54771,"10,600",medium
+Pomona,54242,"6,556",medium
+San Fernando,54068,"9,856",medium
+Atwater Village,53872,"8,379",medium
+Bellflower,53325,"11,756",medium
+Azusa,53299,"4,496",medium
+Alhambra,53224,"11,275",medium
+Avalon,53200,"1,159",medium
+Lawndale,53150,"16,119",medium
+Gardena,52897,"9,894",medium
+West Hollywood,52855,"18,924",medium
+Montebello,52623,"7,329",medium
+North Hills,52456,"10,003",medium
+Canoga Park,51601,"12,240",low
+Sun Valley,51290,"8,048",low
+Long Beach,50985,"8,882",low
+Los Feliz,50793,"13,512",low
+Palms,50684,"21,870",low
+Glassell Park,50098,"8,524",low
+Paramount,49815,"11,395",low
+Rosemead,49387,"10,332",low
+Pacoima,49066,"10,510",low
+Elysian Valley,49013,"9,354",low
+Lynwood,48518,"14,264",low
+South Gate,48312,"12,945",low
+Harbor Gateway,47849,"7,720",low
+South El Monte,46912,"7,150",low
+Hawaiian Gardens,46853,"15,141",low
+Inglewood,46574,"12,330",low
+Commerce,46245,"1,912",low
+Valley Glen,46175,"12,325",low
+Manchester Square,46093,"11,449",low
+El Sereno,45866,"9,826",low
+Leimert Park,45865,"9,880",low
+Highland Park,45478,"16,835",low
+Panorama City,44468,"18,028",low
+El Monte,44415,"11,995",low
+Hawthorne,43602,"13,848",low
+Compton,43157,"9,199",low
+North Hollywood,42791,"13,264",low
+Bell Gardens,41532,"17,762",low
+Maywood,41203,"23,638",low
+Van Nuys,41134,"11,542",low
+Wilmington,40627,"5,636",low
+Bell,40556,"14,357",low
+Hyde Park,39460,"12,700",low
+Huntington Park,39185,"20,223",low
+Cudahy,39048,"19,697",low
+West Adams,38209,"14,686",low
+Echo Park,37708,"16,868",low
+Harvard Park,37013,"16,072",low
+Florence-Firestone,34408,"16,805",low
+Exposition Park,33999,"16,819",low
+Hollywood,33694,"22,193",low
+Boyle Heights,33235,"14,229",low
+Jefferson Park,32654,"16,300",low
+Green Meadows,31347,"12,785",low
+Vermont Vista,31272,"14,154",low
+Harvard Heights,31173,"23,473",low
+Lincoln Heights,30579,"10,602",low
+Koreatown,30558,"42,611",low
+East Hollywood,29927,"31,095",low
+Vermont Square,29904,"17,798",low
+Adams-Normandie,29606,"21,848",low
+South Park,29518,"21,638",low
+Elysian Park,28263,"1,538",low
+Vermont Knolls,27730,"18,057",low
+Westlake,26757,"38,214",low
+Pico-Union,26424,"25,352",low
+Watts,25161,"17,346",low
+Chinatown,22754,"10,568",low
+University Park,18533,"20,217",low
+Downtown,15003,"4,770",low
