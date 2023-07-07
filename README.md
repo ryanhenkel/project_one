@@ -2,9 +2,10 @@
 
 Los Angeles County is home to almost ten million people and houses some of the state’s richest and poorest neighborhoods. The county faced millions of confirmed COVID cases, and over 36,000 Angelenos lost their lives. Our group wanted to find answers about how the pandemic affected the many different neighborhoods within Los Angeles. We conducted an analysis of the neighborhoods and cities of Los Angeles County COVID-19 case rates and death rates and compared them to median income, population density, and rate of people fully vaccinated. We hypothesized that the data would reveal that the COVID-19 pandemic had a worse effect on lower-income areas.
 Data Sources:
-	https://catalog.data.gov/dataset/vaccination-rates-by-neighborhood
- 	https://maps.latimes.com/neighborhoods/income/median/neighborhood/list/
-	https://openstreetmap.org
+- https://catalog.data.gov/dataset/vaccination-rates-by-neighborhood
+- https://maps.latimes.com/neighborhoods/income/median/neighborhood/list/
+- https://openstreetmap.org
+- https://maps.latimes.com/neighborhoods/population/density/neighborhood/list/
 
 We created nine graphs and three maps comparing the many different variables to each other. Our analysis found three graphs to be the most statistically significant with the highest correlation, and one map that indicated the strongest relationship. They are: Median Income vs Population Density, Median Income vs. Death Rate, Case Rate vs. Vaccination Rate, and the map that illustrated the death rate in various Los Angeles communities.
 
