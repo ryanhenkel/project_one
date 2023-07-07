@@ -1,4 +1,4 @@
-** How COVID-19 affected Los Angeles County **
+# How COVID-19 affected Los Angeles County
 
 Los Angeles County is home to almost ten million people and houses some of the state’s richest and poorest neighborhoods. The county faced millions of confirmed COVID cases, and over 36,000 Angelenos lost their lives. Our group wanted to find answers about how the pandemic affected the many different neighborhoods within Los Angeles. We conducted an analysis of the neighborhoods and cities of Los Angeles County COVID-19 case rates and death rates and compared them to median income, population density, and rate of people fully vaccinated. We hypothesized that the data would reveal that the COVID-19 pandemic had a worse effect on lower-income areas.
 Data Sources:
